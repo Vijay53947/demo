@@ -1,2 +1,2 @@
 # demo
-Author - Thakor Vijay 
+Author - Thakor Vijay
